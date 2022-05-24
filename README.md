@@ -23,7 +23,7 @@ Discord:<br>
 # Installation
 ## User
 1. Get and install [forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html 'forge'). 
-2. Get the latest client version by clicking Download on our website! https://ravenclient.cf/
+2. Get the latest client version by building it yourself lmao (see Build)
 3. Put the file into your minecraft mods folder. If you do not have this folder, just make one in the minecraft directory (or search up how to install forge mods on youtube).
 4. Run minecraft forge.
 
