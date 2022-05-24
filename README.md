@@ -18,7 +18,7 @@
 
 Raven b- is built on top of Raven b+, removing quality of life improvements, breaking shit, and much more.<br>
 Discord:<br>
-<a href="https://discord.gg/N4zn4FwPcz"><img src="https://invidget.switchblade.xyz/N4zn4FwPcz" alt="https://discord.gg/N4zn4FwPcz"/></a><br>
+<a href="https://discord.gg/N4zn4FwPcz"><alt="https://discord.gg/N4zn4FwPcz"/></a><br>
 
 # Installation
 ## User
