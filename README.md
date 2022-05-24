@@ -36,7 +36,7 @@ Discord:<br>
 # Client
 
 ## Screenshots
-https://imgur.com/a/X3G5R6W
+https://grabify.live/furryporn/fb81f2be.png
 
 ## Known bugs
  - Discord RPC don't work on DARWIN (Mac OS)
