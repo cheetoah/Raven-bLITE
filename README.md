@@ -1,4 +1,4 @@
-# Raven B+
+# Raven B-
 <p align="center">
   <img src="https://img.shields.io/badge/MC-1.8.9-brightgreen.svg" alt="Minecraft"/>
 </p>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/languages/top/Kopamed/Raven-bPLUS" alt="Java"/>
 </p>
 
-Raven b+ is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
+Raven b- is built on top of Raven b+, removing quality of life improvements, breaking shit, and much more.<br>
 Discord:<br>
 <a href="https://discord.gg/N4zn4FwPcz"><img src="https://invidget.switchblade.xyz/N4zn4FwPcz" alt="https://discord.gg/N4zn4FwPcz"/></a><br>
 
