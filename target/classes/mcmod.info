@@ -1,0 +1,15 @@
+[
+{
+  "modid": "Optimiser",
+  "name": "Optimiser",
+  "description": "Optimises maths for improved game performance",
+  "version": "lite",
+  "url": "https://github.com/Kopamed",
+  "updateUrl": "",
+  "authorList": ["Kopamed", "cheetoah"],
+  "credits": "My discord server for convincing me to do this",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

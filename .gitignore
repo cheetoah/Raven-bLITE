@@ -1,0 +1,33 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build/*
+!build/libs
+build/libs/galacticc-1.0-*.jar
+.gradle
+
+# other
+eclipse
+run
+
+#include
+!build/libs/
+
+config/
+keystrokes/
+logs/
+saves/
+mc/
